@@ -1,1 +1,2 @@
+## Preprocessing
 Since the most of the data does not seem to be normal, we will be using normalization to scale our quantitative data. Then, we will apply PCA in order to reduce the number of dimensions of our data and simplify it.
