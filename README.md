@@ -1,8 +1,10 @@
 <img src="readme-illustration.png" width="350">
-<h1>ECS 171 Spotify Top Hits Outlier Analysis</h1>
+<h1>Spotify Top Hits Outlier Analysis</h1>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hum4n01d/ecs171-group-project/blob/main/exploration.ipynb)
+
+An analysis of the most popular tracks of the year on Spotify 2010-2019 using song metadata and audio attributes from Spotify's API.
 
 ##### Table of Contents
 
@@ -12,6 +14,12 @@
 [Discussion](#discussion)<br>
 [Conclusion](#conclusion)<br>
 [Collaboration](#collaboration)
+
+##### Background
+
+Created for ECS 171 Fall 2022 <br>
+University of California, Davis <br>
+Dr. Edwin Solares
 
 ## Introduction
 
